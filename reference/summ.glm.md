@@ -277,8 +277,8 @@ Jacob Long <jacob.long@sc.edu>
 #> (Intercept)          3.04   0.17    17.81   0.00
 #> outcome2            -0.45   0.20    -2.25   0.02
 #> outcome3            -0.29   0.19    -1.52   0.13
-#> treatment2           0.00   0.20     0.00   1.00
-#> treatment3           0.00   0.20     0.00   1.00
+#> treatment2          -0.00   0.20    -0.00   1.00
+#> treatment3          -0.00   0.20    -0.00   1.00
 #> ------------------------------------------------
 #> 
 #> Continuous predictors are mean-centered and scaled by 1 s.d. The outcome variable remains in its original units.
