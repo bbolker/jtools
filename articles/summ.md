@@ -238,7 +238,7 @@ cannot apply [`log()`](https://rdrr.io/r/base/Log.html) to numbers \<==
 
 You can also choose a different number of standard deviations to divide
 by for standardization. [Andrew
-Gelman](http://www.stat.columbia.edu/~gelman/research/published/standardizing7.pdf)
+Gelman](https://sites.stat.columbia.edu/gelman/research/published/standardizing7.pdf)
 has been a proponent of dividing by 2 standard deviations; if you want
 to do things that way, give the argument `n.sd = 2`.
 
